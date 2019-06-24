@@ -3,12 +3,12 @@
 
 from ftplib import FTP
 import sys,getpass,os.path,os,time
-#host = '202.43.149.133'
+
 host = '172.16.139.33'
-username = 'ftptest'
-password = '1234qwer'
-#username = 'sda' 
-#password = '8U3YBoxU'
+username = 'FFFFF'
+password = 'FFFFF'
+#username = 'FFF' 
+#password = 'FFFF'
 port = 21
 timeout = 30 
 
